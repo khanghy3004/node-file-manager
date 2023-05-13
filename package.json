@@ -1,6 +1,6 @@
 {
   "name": "node-file-manager",
-  "version": "0.4.7",
+  "version": "0.1.0",
   "description": "File manager web based on Koa and Angular.js",
   "main": "index.js",
   "scripts": {
@@ -31,7 +31,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/efeiefei/node-file-manager.git"
+    "url": "git+https://github.com/khanghy3004/node-file-manager.git"
   },
   "keywords": [
     "files",
@@ -42,12 +42,12 @@
     "server"
   ],
   "author": {
-    "name": "efei",
-    "email": "efeigm@gmail.com"
+    "name": "Khang Hy",
+    "email": "khanghy3004@gmail.com"
   },
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/efeiefei/node-file-manager/issues"
+    "url": "https://github.com/khanghy3004/node-file-manager/issues"
   },
-  "homepage": "https://github.com/efeiefei/node-file-manager#readme"
+  "homepage": "https://github.com/khanghy3004/node-file-manager#readme"
 }
