@@ -1,2 +1,10 @@
 node_modules/
+# Ignore all files in the test/ directory...
+test/*
+# But not these files...
+!test/a.html
+!test/hello.txt
+
 .idea
+.env
+

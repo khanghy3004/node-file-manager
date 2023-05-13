@@ -27,7 +27,7 @@
     <div class="modal-dialog">
       <div class="modal-content">
         <div class="modal-header">
-          <h4>New Folder</h4>
+          <h4>New Folder {{FM.fileContent}}</h4>
         </div>
         <div class="modal-body">
           <p>Complete Path　{{FM.curFolderPath + FM.newFolderName + '/'}}</p>
@@ -150,6 +150,7 @@
           <th>Name</th>
           <th>Size</th>
           <th>Time</th>
+          <th>View</th>
         </tr>
       </thead>
       <tbody>
@@ -159,6 +160,7 @@
         <td ng-click="FM.clickFile(file)"><a>{{file.name}}</a></td>
         <td>{{file.humanSize}}</td>
         <td>{{file.humanTime}}</td>
+        <td ng-click="FM.viewFile(file)">View</td>
       </tr>
       </tbody>
     </table>

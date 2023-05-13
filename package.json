@@ -4,7 +4,7 @@
   "description": "File manager web based on Koa and Angular.js",
   "main": "index.js",
   "scripts": {
-    "start": "node --harmony ./lib/index.js"
+    "start": "node --harmony ./lib/index.js -d ./test"
   },
   "bin": {
     "node-file-manager": "../node-file-manager/bin/node-file-manager.sh"
@@ -16,6 +16,7 @@
     "co-fs": "^1.2.0",
     "co-fs-extra": "^1.1.0",
     "co-views": "^2.1.0",
+    "dotenv": "^16.0.3",
     "ejs": "^2.3.4",
     "jszip": "^3.1.3",
     "koa": "^1.0.0",
