@@ -1,6 +1,6 @@
 {
   "name": "@khanghy3004/node-file-manager",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "description": "File manager web based on Koa and Angular.js",
   "main": "index.js",
   "scripts": {
