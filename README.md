@@ -1,11 +1,7 @@
-# Nodejs File Manager
-Login, manager, edit, download, rename, delete,...
-## Screen Shot
-![login](example/login.png)
-![screenshot](example/screenshot.png)
-![edit](example/edit.png)
- 
-## Usage
+# Screen Shot
+![screenshot](https://raw.githubusercontent.com/efeiefei/node-file-manager/master/example/screenshot.png)
+
+# Usage
 
 ```sh
   git clone https://github.com/khanghy3004/node-file-manager.git
