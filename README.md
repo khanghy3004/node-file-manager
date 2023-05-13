@@ -1,17 +1,14 @@
-# Screen Shot
-![screenshot](https://raw.githubusercontent.com/efeiefei/node-file-manager/master/example/screenshot.png)
-
-# Usage
-
-```sh
-  npm install -g node-file-manager
-  node-file-manager -p 8080 -d /path/to/
-```
-
-Or
+# Nodejs File Manager
+Login, manager, edit, download, rename, delete,...
+## Screen Shot
+![login](example/login.png)
+![screenshot](example/screenshot.png)
+![edit](example/edit.png)
+ 
+## Usage
 
 ```sh
-  git clone https://github.com/efeiefei/node-file-manager.git
+  git clone https://github.com/khanghy3004/node-file-manager.git
   cd node-file-manager
   npm i
   cd lib
