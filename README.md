@@ -1,9 +1,17 @@
 # Nodejs File Manager
 Login, manager, edit, download, rename, delete,...
 ## Screen Shot
-![login](example/login.png)
-![screenshot](example/screenshot.png)
-![edit](example/edit.png)
+| ![login.png](example/login.png)) | 
+|:--:| 
+| *Login* |
+
+| ![screenshot.png](example/screenshot.png) | 
+|:--:| 
+| *Dashboard* |
+
+| ![edit.png](example/edit.png)) | 
+|:--:| 
+| *Edit* |
  
 ## Usage
 
